@@ -6,5 +6,6 @@ package com.test;
 public class Demo6 {
     public static void main(String[] args){
         System.out.println("Demo06");
+        System.out.println("Demo06-1");
     }
 }
