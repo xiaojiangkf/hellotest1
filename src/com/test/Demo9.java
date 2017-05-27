@@ -8,5 +8,6 @@ public class Demo9 {
         System.out.println("Demo06");
         System.out.println("Demo06-1");
         System.out.println("Demo06-1");
+        System.out.println("Demo06-2");
     }
 }
